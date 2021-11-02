@@ -1,4 +1,4 @@
-# MindX_Fullstack-Web-54
+# MindX_Fullstack-Web
 
 Course: Fullstack Web (MindX)
 
